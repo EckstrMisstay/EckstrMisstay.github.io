@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+    <title>Project: Home Webpage</title>
+    </head>
+    <body>
+      <h1> Welome to my page!</h1>
+      <p> hello! welcome to my site scroll through the gallery to see my project or check out my about me page!</p>
+      </body>
+      </html>
